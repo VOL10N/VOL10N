@@ -3,3 +3,4 @@
 ![](https://komarev.com/ghpvc/?username=VOL10N&color=9dff3b&style=plastic)
 
 <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/9b8b4d38-f418-4b96-a16c-10e329a1e3c9" />
+<img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/27041b52-b7a8-4fae-aa58-d51f217b1a0e" />
