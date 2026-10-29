@@ -7,4 +7,4 @@
 ![](https://komarev.com/ghpvc/?username=VOL10N&color=9dff3b&style=plastic)
 
 
-<img width="540" height="290" alt="image" src="https://github.com/user-attachments/assets/45339a2c-a5ca-4fbc-9765-cd73e991fd0b.gif" />
+![hippo](<img width="540" height="290" alt="image" src="https://github.com/user-attachments/assets/9a196b8e-6525-4b5b-8011-024221fcbe82" />)
