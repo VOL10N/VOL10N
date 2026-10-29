@@ -6,4 +6,5 @@
 
 ![](https://komarev.com/ghpvc/?username=VOL10N&color=9dff3b&style=plastic)
 
-https://64.media.tumblr.com/409ee8c355e9446018db9a743f7e6de2/156e2c9832c2dd7c-19/s540x810/a06f841a172441406fbc05b7efe10cd1e22a87df.gifv
+
+![hippo](<img width="540" height="290" alt="image" src="https://github.com/user-attachments/assets/45339a2c-a5ca-4fbc-9765-cd73e991fd0b" />)
