@@ -6,8 +6,6 @@
 
 ![](https://komarev.com/ghpvc/?username=VOL10N&color=9dff3b&style=plastic&label=✴︎)
 
-<img width="555" height="310" alt="image" src="https://github.com/user-attachments/assets/79c993c9-2e41-499e-9cf0-6bfbe1470c12" />
-
 https://github.com/user-attachments/assets/7348a55b-98ff-4e66-9873-86357930f78f
 
 
